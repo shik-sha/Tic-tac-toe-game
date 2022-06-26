@@ -20,7 +20,7 @@ def printBoard(board):
     print('-+-+-')
     print(board['1'] + '|' + board['2'] + '|' + board['3'])
 
-# Now we'll write the main function which has all the gameplay functionality.
+'''Now we'll write the main function which has all the gameplay functionality.'''
 def game():
 
     turn = 'X'
